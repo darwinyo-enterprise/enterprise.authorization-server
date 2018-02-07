@@ -1,0 +1,17 @@
+H:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.MockData\bin\Debug\netstandard2.0\Enterprise.AuthorizationServer.MockData.deps.json
+H:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.MockData\bin\Debug\netstandard2.0\Enterprise.AuthorizationServer.MockData.dll
+H:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.MockData\bin\Debug\netstandard2.0\Enterprise.AuthorizationServer.MockData.pdb
+H:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.MockData\bin\Debug\netstandard2.0\Enterprise.AuthorizationServer.Models.dll
+H:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.MockData\bin\Debug\netstandard2.0\Enterprise.ConfigurationServer.DataLayers.dll
+H:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.MockData\bin\Debug\netstandard2.0\Enterprise.Constants.NetStandard.dll
+H:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.MockData\bin\Debug\netstandard2.0\Enterprise.MockData.NetStandard.dll
+H:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.MockData\bin\Debug\netstandard2.0\Enterprise.Constants.NetStandard.pdb
+H:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.MockData\bin\Debug\netstandard2.0\Enterprise.MockData.NetStandard.pdb
+H:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.MockData\bin\Debug\netstandard2.0\Enterprise.AuthorizationServer.Models.pdb
+H:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.MockData\bin\Debug\netstandard2.0\Enterprise.ConfigurationServer.DataLayers.pdb
+H:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.MockData\obj\Debug\netstandard2.0\Enterprise.AuthorizationServer.MockData.csproj.CoreCompileInputs.cache
+H:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.MockData\obj\Debug\netstandard2.0\Enterprise.AuthorizationServer.MockData.AssemblyInfoInputs.cache
+H:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.MockData\obj\Debug\netstandard2.0\Enterprise.AuthorizationServer.MockData.AssemblyInfo.cs
+H:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.MockData\obj\Debug\netstandard2.0\Enterprise.AuthorizationServer.MockData.dll
+H:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.MockData\obj\Debug\netstandard2.0\Enterprise.AuthorizationServer.MockData.pdb
+H:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.MockData\obj\Debug\netstandard2.0\Enterprise.AuthorizationServer.MockData.csprojResolveAssemblyReference.cache

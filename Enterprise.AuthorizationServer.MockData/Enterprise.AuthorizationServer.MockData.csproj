@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Shared Libraries\Net Standard\Enterprise.Constants.NetStandard\Enterprise.Constants.NetStandard.csproj" />
+    <ProjectReference Include="..\..\Shared Libraries\Net Standard\Enterprise.MockData.NetStandard\Enterprise.MockData.NetStandard.csproj" />
+    <ProjectReference Include="..\Enterprise.AuthorizationServer.Models\Enterprise.AuthorizationServer.Models.csproj" />
+  </ItemGroup>
+
+</Project>

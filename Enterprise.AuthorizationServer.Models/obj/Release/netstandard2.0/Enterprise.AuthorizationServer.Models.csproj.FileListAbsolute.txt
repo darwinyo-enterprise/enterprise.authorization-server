@@ -1,0 +1,11 @@
+C:\Projects\BackendApps\Enterprise\Enterprise\Authorization Server\Enterprise.AuthorizationServer.Models\bin\Release\netstandard2.0\Enterprise.AuthorizationServer.Models.deps.json
+C:\Projects\BackendApps\Enterprise\Enterprise\Authorization Server\Enterprise.AuthorizationServer.Models\bin\Release\netstandard2.0\Enterprise.AuthorizationServer.Models.dll
+C:\Projects\BackendApps\Enterprise\Enterprise\Authorization Server\Enterprise.AuthorizationServer.Models\bin\Release\netstandard2.0\Enterprise.AuthorizationServer.Models.pdb
+C:\Projects\BackendApps\Enterprise\Enterprise\Authorization Server\Enterprise.AuthorizationServer.Models\bin\Release\netstandard2.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Projects\BackendApps\Enterprise\Enterprise\Authorization Server\Enterprise.AuthorizationServer.Models\bin\Release\netstandard2.0\Microsoft.Extensions.Identity.Stores.xml
+C:\Projects\BackendApps\Enterprise\Enterprise\Authorization Server\Enterprise.AuthorizationServer.Models\obj\Release\netstandard2.0\Enterprise.AuthorizationServer.Models.csprojResolveAssemblyReference.cache
+C:\Projects\BackendApps\Enterprise\Enterprise\Authorization Server\Enterprise.AuthorizationServer.Models\obj\Release\netstandard2.0\Enterprise.AuthorizationServer.Models.csproj.CoreCompileInputs.cache
+C:\Projects\BackendApps\Enterprise\Enterprise\Authorization Server\Enterprise.AuthorizationServer.Models\obj\Release\netstandard2.0\Enterprise.AuthorizationServer.Models.AssemblyInfoInputs.cache
+C:\Projects\BackendApps\Enterprise\Enterprise\Authorization Server\Enterprise.AuthorizationServer.Models\obj\Release\netstandard2.0\Enterprise.AuthorizationServer.Models.AssemblyInfo.cs
+C:\Projects\BackendApps\Enterprise\Enterprise\Authorization Server\Enterprise.AuthorizationServer.Models\obj\Release\netstandard2.0\Enterprise.AuthorizationServer.Models.dll
+C:\Projects\BackendApps\Enterprise\Enterprise\Authorization Server\Enterprise.AuthorizationServer.Models\obj\Release\netstandard2.0\Enterprise.AuthorizationServer.Models.pdb

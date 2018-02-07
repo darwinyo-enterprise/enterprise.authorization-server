@@ -1,0 +1,57 @@
+C:\Projects\BackendApps\Enterprise\Enterprise\Authorization Server\Enterprise.AuthorizationServer.DataLayers\bin\Debug\netstandard2.0\Enterprise.AuthorizationServer.DataLayers.deps.json
+C:\Projects\BackendApps\Enterprise\Enterprise\Authorization Server\Enterprise.AuthorizationServer.DataLayers\bin\Debug\netstandard2.0\Enterprise.AuthorizationServer.DataLayers.dll
+C:\Projects\BackendApps\Enterprise\Enterprise\Authorization Server\Enterprise.AuthorizationServer.DataLayers\bin\Debug\netstandard2.0\Enterprise.AuthorizationServer.DataLayers.pdb
+C:\Projects\BackendApps\Enterprise\Enterprise\Authorization Server\Enterprise.AuthorizationServer.DataLayers\bin\Debug\netstandard2.0\Enterprise.AuthorizationServer.Models.dll
+C:\Projects\BackendApps\Enterprise\Enterprise\Authorization Server\Enterprise.AuthorizationServer.DataLayers\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Projects\BackendApps\Enterprise\Enterprise\Authorization Server\Enterprise.AuthorizationServer.DataLayers\bin\Debug\netstandard2.0\Enterprise.AuthorizationServer.Models.pdb
+C:\Projects\BackendApps\Enterprise\Enterprise\Authorization Server\Enterprise.AuthorizationServer.DataLayers\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.xml
+C:\Projects\BackendApps\Enterprise\Enterprise\Authorization Server\Enterprise.AuthorizationServer.DataLayers\obj\Debug\netstandard2.0\Enterprise.AuthorizationServer.DataLayers.csproj.CoreCompileInputs.cache
+C:\Projects\BackendApps\Enterprise\Enterprise\Authorization Server\Enterprise.AuthorizationServer.DataLayers\obj\Debug\netstandard2.0\Enterprise.AuthorizationServer.DataLayers.AssemblyInfoInputs.cache
+C:\Projects\BackendApps\Enterprise\Enterprise\Authorization Server\Enterprise.AuthorizationServer.DataLayers\obj\Debug\netstandard2.0\Enterprise.AuthorizationServer.DataLayers.AssemblyInfo.cs
+C:\Projects\BackendApps\Enterprise\Enterprise\Authorization Server\Enterprise.AuthorizationServer.DataLayers\obj\Debug\netstandard2.0\Enterprise.AuthorizationServer.DataLayers.dll
+C:\Projects\BackendApps\Enterprise\Enterprise\Authorization Server\Enterprise.AuthorizationServer.DataLayers\obj\Debug\netstandard2.0\Enterprise.AuthorizationServer.DataLayers.pdb
+C:\Projects\BackendApps\Enterprise\Enterprise\Authorization Server\Enterprise.AuthorizationServer.DataLayers\obj\Debug\netstandard2.0\Enterprise.AuthorizationServer.DataLayers.csprojResolveAssemblyReference.cache
+C:\Users\Darwin Yo\Downloads\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.DataLayers\bin\Debug\netstandard2.0\Enterprise.AuthorizationServer.DataLayers.deps.json
+C:\Users\Darwin Yo\Downloads\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.DataLayers\bin\Debug\netstandard2.0\Enterprise.AuthorizationServer.DataLayers.dll
+C:\Users\Darwin Yo\Downloads\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.DataLayers\bin\Debug\netstandard2.0\Enterprise.AuthorizationServer.DataLayers.pdb
+C:\Users\Darwin Yo\Downloads\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.DataLayers\bin\Debug\netstandard2.0\Enterprise.AuthorizationServer.Models.dll
+C:\Users\Darwin Yo\Downloads\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.DataLayers\bin\Debug\netstandard2.0\Enterprise.AuthorizationServer.Models.pdb
+C:\Users\Darwin Yo\Downloads\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.DataLayers\obj\Debug\netstandard2.0\Enterprise.AuthorizationServer.DataLayers.csprojResolveAssemblyReference.cache
+C:\Users\Darwin Yo\Downloads\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.DataLayers\obj\Debug\netstandard2.0\Enterprise.AuthorizationServer.DataLayers.csproj.CoreCompileInputs.cache
+C:\Users\Darwin Yo\Downloads\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.DataLayers\obj\Debug\netstandard2.0\Enterprise.AuthorizationServer.DataLayers.AssemblyInfoInputs.cache
+C:\Users\Darwin Yo\Downloads\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.DataLayers\obj\Debug\netstandard2.0\Enterprise.AuthorizationServer.DataLayers.AssemblyInfo.cs
+C:\Users\Darwin Yo\Downloads\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.DataLayers\obj\Debug\netstandard2.0\Enterprise.AuthorizationServer.DataLayers.dll
+C:\Users\Darwin Yo\Downloads\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.DataLayers\obj\Debug\netstandard2.0\Enterprise.AuthorizationServer.DataLayers.pdb
+C:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.DataLayers\bin\Debug\netstandard2.0\Enterprise.AuthorizationServer.DataLayers.deps.json
+C:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.DataLayers\bin\Debug\netstandard2.0\Enterprise.AuthorizationServer.DataLayers.dll
+C:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.DataLayers\bin\Debug\netstandard2.0\Enterprise.AuthorizationServer.DataLayers.pdb
+C:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.DataLayers\bin\Debug\netstandard2.0\Enterprise.AuthorizationServer.Models.dll
+C:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.DataLayers\bin\Debug\netstandard2.0\Enterprise.AuthorizationServer.Models.pdb
+C:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.DataLayers\obj\Debug\netstandard2.0\Enterprise.AuthorizationServer.DataLayers.csproj.CoreCompileInputs.cache
+C:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.DataLayers\obj\Debug\netstandard2.0\Enterprise.AuthorizationServer.DataLayers.AssemblyInfoInputs.cache
+C:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.DataLayers\obj\Debug\netstandard2.0\Enterprise.AuthorizationServer.DataLayers.AssemblyInfo.cs
+C:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.DataLayers\obj\Debug\netstandard2.0\Enterprise.AuthorizationServer.DataLayers.dll
+C:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.DataLayers\obj\Debug\netstandard2.0\Enterprise.AuthorizationServer.DataLayers.pdb
+C:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.DataLayers\obj\Debug\netstandard2.0\Enterprise.AuthorizationServer.DataLayers.csprojResolveAssemblyReference.cache
+E:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.DataLayers\bin\Debug\netstandard2.0\Enterprise.AuthorizationServer.DataLayers.deps.json
+E:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.DataLayers\bin\Debug\netstandard2.0\Enterprise.AuthorizationServer.DataLayers.dll
+E:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.DataLayers\bin\Debug\netstandard2.0\Enterprise.AuthorizationServer.DataLayers.pdb
+E:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.DataLayers\bin\Debug\netstandard2.0\Enterprise.AuthorizationServer.Models.dll
+E:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.DataLayers\bin\Debug\netstandard2.0\Enterprise.AuthorizationServer.Models.pdb
+E:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.DataLayers\obj\Debug\netstandard2.0\Enterprise.AuthorizationServer.DataLayers.csproj.CoreCompileInputs.cache
+E:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.DataLayers\obj\Debug\netstandard2.0\Enterprise.AuthorizationServer.DataLayers.AssemblyInfoInputs.cache
+E:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.DataLayers\obj\Debug\netstandard2.0\Enterprise.AuthorizationServer.DataLayers.AssemblyInfo.cs
+E:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.DataLayers\obj\Debug\netstandard2.0\Enterprise.AuthorizationServer.DataLayers.dll
+E:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.DataLayers\obj\Debug\netstandard2.0\Enterprise.AuthorizationServer.DataLayers.pdb
+E:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.DataLayers\obj\Debug\netstandard2.0\Enterprise.AuthorizationServer.DataLayers.csprojResolveAssemblyReference.cache
+H:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.DataLayers\bin\Debug\netstandard2.0\Enterprise.AuthorizationServer.DataLayers.deps.json
+H:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.DataLayers\bin\Debug\netstandard2.0\Enterprise.AuthorizationServer.DataLayers.dll
+H:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.DataLayers\bin\Debug\netstandard2.0\Enterprise.AuthorizationServer.DataLayers.pdb
+H:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.DataLayers\bin\Debug\netstandard2.0\Enterprise.AuthorizationServer.Models.dll
+H:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.DataLayers\bin\Debug\netstandard2.0\Enterprise.AuthorizationServer.Models.pdb
+H:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.DataLayers\obj\Debug\netstandard2.0\Enterprise.AuthorizationServer.DataLayers.csprojResolveAssemblyReference.cache
+H:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.DataLayers\obj\Debug\netstandard2.0\Enterprise.AuthorizationServer.DataLayers.csproj.CoreCompileInputs.cache
+H:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.DataLayers\obj\Debug\netstandard2.0\Enterprise.AuthorizationServer.DataLayers.AssemblyInfoInputs.cache
+H:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.DataLayers\obj\Debug\netstandard2.0\Enterprise.AuthorizationServer.DataLayers.AssemblyInfo.cs
+H:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.DataLayers\obj\Debug\netstandard2.0\Enterprise.AuthorizationServer.DataLayers.dll
+H:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.DataLayers\obj\Debug\netstandard2.0\Enterprise.AuthorizationServer.DataLayers.pdb

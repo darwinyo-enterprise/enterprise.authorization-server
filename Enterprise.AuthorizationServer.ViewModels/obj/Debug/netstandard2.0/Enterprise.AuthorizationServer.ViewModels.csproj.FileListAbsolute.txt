@@ -1,0 +1,61 @@
+C:\Projects\BackendApps\Enterprise\Enterprise\Authorization Server\Enterprise.AuthorizationServer.ViewModels\bin\Debug\netstandard2.0\Enterprise.AuthorizationServer.ViewModels.deps.json
+C:\Projects\BackendApps\Enterprise\Enterprise\Authorization Server\Enterprise.AuthorizationServer.ViewModels\bin\Debug\netstandard2.0\Enterprise.AuthorizationServer.ViewModels.dll
+C:\Projects\BackendApps\Enterprise\Enterprise\Authorization Server\Enterprise.AuthorizationServer.ViewModels\bin\Debug\netstandard2.0\Enterprise.AuthorizationServer.ViewModels.pdb
+C:\Projects\BackendApps\Enterprise\Enterprise\Authorization Server\Enterprise.AuthorizationServer.ViewModels\bin\Debug\netstandard2.0\Enterprise.AuthorizationServer.Models.dll
+C:\Projects\BackendApps\Enterprise\Enterprise\Authorization Server\Enterprise.AuthorizationServer.ViewModels\bin\Debug\netstandard2.0\Microsoft.Extensions.Identity.Core.dll
+C:\Projects\BackendApps\Enterprise\Enterprise\Authorization Server\Enterprise.AuthorizationServer.ViewModels\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.dll
+C:\Projects\BackendApps\Enterprise\Enterprise\Authorization Server\Enterprise.AuthorizationServer.ViewModels\bin\Debug\netstandard2.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Projects\BackendApps\Enterprise\Enterprise\Authorization Server\Enterprise.AuthorizationServer.ViewModels\bin\Debug\netstandard2.0\Enterprise.AuthorizationServer.Models.pdb
+C:\Projects\BackendApps\Enterprise\Enterprise\Authorization Server\Enterprise.AuthorizationServer.ViewModels\bin\Debug\netstandard2.0\Microsoft.Extensions.Identity.Core.xml
+C:\Projects\BackendApps\Enterprise\Enterprise\Authorization Server\Enterprise.AuthorizationServer.ViewModels\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.xml
+C:\Projects\BackendApps\Enterprise\Enterprise\Authorization Server\Enterprise.AuthorizationServer.ViewModels\bin\Debug\netstandard2.0\Microsoft.Extensions.Identity.Stores.xml
+C:\Projects\BackendApps\Enterprise\Enterprise\Authorization Server\Enterprise.AuthorizationServer.ViewModels\obj\Debug\netstandard2.0\Enterprise.AuthorizationServer.ViewModels.csproj.CoreCompileInputs.cache
+C:\Projects\BackendApps\Enterprise\Enterprise\Authorization Server\Enterprise.AuthorizationServer.ViewModels\obj\Debug\netstandard2.0\Enterprise.AuthorizationServer.ViewModels.AssemblyInfoInputs.cache
+C:\Projects\BackendApps\Enterprise\Enterprise\Authorization Server\Enterprise.AuthorizationServer.ViewModels\obj\Debug\netstandard2.0\Enterprise.AuthorizationServer.ViewModels.AssemblyInfo.cs
+C:\Projects\BackendApps\Enterprise\Enterprise\Authorization Server\Enterprise.AuthorizationServer.ViewModels\obj\Debug\netstandard2.0\Enterprise.AuthorizationServer.ViewModels.dll
+C:\Projects\BackendApps\Enterprise\Enterprise\Authorization Server\Enterprise.AuthorizationServer.ViewModels\obj\Debug\netstandard2.0\Enterprise.AuthorizationServer.ViewModels.pdb
+C:\Projects\BackendApps\Enterprise\Enterprise\Authorization Server\Enterprise.AuthorizationServer.ViewModels\obj\Debug\netstandard2.0\Enterprise.AuthorizationServer.ViewModels.csprojResolveAssemblyReference.cache
+C:\Users\Darwin Yo\Downloads\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.ViewModels\bin\Debug\netstandard2.0\Enterprise.AuthorizationServer.ViewModels.deps.json
+C:\Users\Darwin Yo\Downloads\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.ViewModels\bin\Debug\netstandard2.0\Enterprise.AuthorizationServer.ViewModels.dll
+C:\Users\Darwin Yo\Downloads\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.ViewModels\bin\Debug\netstandard2.0\Enterprise.AuthorizationServer.ViewModels.pdb
+C:\Users\Darwin Yo\Downloads\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.ViewModels\bin\Debug\netstandard2.0\Enterprise.AuthorizationServer.Models.dll
+C:\Users\Darwin Yo\Downloads\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.ViewModels\bin\Debug\netstandard2.0\Enterprise.AuthorizationServer.Models.pdb
+C:\Users\Darwin Yo\Downloads\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.ViewModels\obj\Debug\netstandard2.0\Enterprise.AuthorizationServer.ViewModels.csprojResolveAssemblyReference.cache
+C:\Users\Darwin Yo\Downloads\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.ViewModels\obj\Debug\netstandard2.0\Enterprise.AuthorizationServer.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\Darwin Yo\Downloads\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.ViewModels\obj\Debug\netstandard2.0\Enterprise.AuthorizationServer.ViewModels.AssemblyInfoInputs.cache
+C:\Users\Darwin Yo\Downloads\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.ViewModels\obj\Debug\netstandard2.0\Enterprise.AuthorizationServer.ViewModels.AssemblyInfo.cs
+C:\Users\Darwin Yo\Downloads\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.ViewModels\obj\Debug\netstandard2.0\Enterprise.AuthorizationServer.ViewModels.dll
+C:\Users\Darwin Yo\Downloads\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.ViewModels\obj\Debug\netstandard2.0\Enterprise.AuthorizationServer.ViewModels.pdb
+C:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.ViewModels\bin\Debug\netstandard2.0\Enterprise.AuthorizationServer.ViewModels.deps.json
+C:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.ViewModels\bin\Debug\netstandard2.0\Enterprise.AuthorizationServer.ViewModels.dll
+C:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.ViewModels\bin\Debug\netstandard2.0\Enterprise.AuthorizationServer.ViewModels.pdb
+C:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.ViewModels\bin\Debug\netstandard2.0\Enterprise.AuthorizationServer.Models.dll
+C:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.ViewModels\bin\Debug\netstandard2.0\Enterprise.AuthorizationServer.Models.pdb
+C:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.ViewModels\obj\Debug\netstandard2.0\Enterprise.AuthorizationServer.ViewModels.csprojResolveAssemblyReference.cache
+C:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.ViewModels\obj\Debug\netstandard2.0\Enterprise.AuthorizationServer.ViewModels.csproj.CoreCompileInputs.cache
+C:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.ViewModels\obj\Debug\netstandard2.0\Enterprise.AuthorizationServer.ViewModels.AssemblyInfoInputs.cache
+C:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.ViewModels\obj\Debug\netstandard2.0\Enterprise.AuthorizationServer.ViewModels.AssemblyInfo.cs
+C:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.ViewModels\obj\Debug\netstandard2.0\Enterprise.AuthorizationServer.ViewModels.dll
+C:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.ViewModels\obj\Debug\netstandard2.0\Enterprise.AuthorizationServer.ViewModels.pdb
+E:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.ViewModels\obj\Debug\netstandard2.0\Enterprise.AuthorizationServer.ViewModels.dll
+E:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.ViewModels\obj\Debug\netstandard2.0\Enterprise.AuthorizationServer.ViewModels.pdb
+E:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.ViewModels\bin\Debug\netstandard2.0\Enterprise.AuthorizationServer.ViewModels.deps.json
+E:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.ViewModels\bin\Debug\netstandard2.0\Enterprise.AuthorizationServer.ViewModels.dll
+E:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.ViewModels\bin\Debug\netstandard2.0\Enterprise.AuthorizationServer.ViewModels.pdb
+E:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.ViewModels\bin\Debug\netstandard2.0\Enterprise.AuthorizationServer.Models.dll
+E:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.ViewModels\bin\Debug\netstandard2.0\Enterprise.AuthorizationServer.Models.pdb
+E:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.ViewModels\obj\Debug\netstandard2.0\Enterprise.AuthorizationServer.ViewModels.csprojResolveAssemblyReference.cache
+E:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.ViewModels\obj\Debug\netstandard2.0\Enterprise.AuthorizationServer.ViewModels.csproj.CoreCompileInputs.cache
+E:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.ViewModels\obj\Debug\netstandard2.0\Enterprise.AuthorizationServer.ViewModels.AssemblyInfoInputs.cache
+E:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.ViewModels\obj\Debug\netstandard2.0\Enterprise.AuthorizationServer.ViewModels.AssemblyInfo.cs
+H:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.ViewModels\bin\Debug\netstandard2.0\Enterprise.AuthorizationServer.ViewModels.deps.json
+H:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.ViewModels\bin\Debug\netstandard2.0\Enterprise.AuthorizationServer.ViewModels.dll
+H:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.ViewModels\bin\Debug\netstandard2.0\Enterprise.AuthorizationServer.ViewModels.pdb
+H:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.ViewModels\bin\Debug\netstandard2.0\Enterprise.AuthorizationServer.Models.dll
+H:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.ViewModels\bin\Debug\netstandard2.0\Enterprise.AuthorizationServer.Models.pdb
+H:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.ViewModels\obj\Debug\netstandard2.0\Enterprise.AuthorizationServer.ViewModels.csprojResolveAssemblyReference.cache
+H:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.ViewModels\obj\Debug\netstandard2.0\Enterprise.AuthorizationServer.ViewModels.csproj.CoreCompileInputs.cache
+H:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.ViewModels\obj\Debug\netstandard2.0\Enterprise.AuthorizationServer.ViewModels.AssemblyInfoInputs.cache
+H:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.ViewModels\obj\Debug\netstandard2.0\Enterprise.AuthorizationServer.ViewModels.AssemblyInfo.cs
+H:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.ViewModels\obj\Debug\netstandard2.0\Enterprise.AuthorizationServer.ViewModels.dll
+H:\Projects\Enterprise\Authorization Server\Enterprise.AuthorizationServer.ViewModels\obj\Debug\netstandard2.0\Enterprise.AuthorizationServer.ViewModels.pdb
